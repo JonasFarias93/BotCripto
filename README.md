@@ -1,2 +1,2 @@
-# botCripto
-um bot que compra e vende criptomoedas.
+# BotCripto
+Um bot que compra e vende criptomoedas automaticamente!
